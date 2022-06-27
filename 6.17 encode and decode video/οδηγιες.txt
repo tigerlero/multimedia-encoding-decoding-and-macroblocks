@@ -1,0 +1,12 @@
+Για την κωδικοποίηση:
+
+python Encode.py video_name q
+
+Για παράδειγμα:
+
+python Encode.py look.avi 5
+
+
+Για την αποκωδικοποίηση:
+
+python Decode.py

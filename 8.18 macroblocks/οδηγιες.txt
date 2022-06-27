@@ -1,0 +1,7 @@
+python remove.py video.format s
+
+Όπου s δύναμη του 2.
+
+Για παράδειγμα:
+
+python remove.py car.mp4 16

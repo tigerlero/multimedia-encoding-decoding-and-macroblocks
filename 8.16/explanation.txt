@@ -1,0 +1,1 @@
+out_blocks.avi has smaller differences from out_simple.avi
